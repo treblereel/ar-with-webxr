@@ -1,7 +1,7 @@
 # ar-with-webxr
 GWT XR example
 
-This demo is based on WebXR Device API implementation for GWT: https://github.com/treblereel/elemental2-xr
+This demo is based on WebXR Device API implementation for GWT: https://github.com/treblereel/elemental2-xr \
 Working example location: https://env-1339767.cloud.unispace.io/
 
 UNSTABLE API
